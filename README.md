@@ -1,4 +1,4 @@
-## 📅 **12-Week System Design Roadmap**
+# 📅 **12-Week System Design Roadmap**
 
 <img width="698" alt="Screenshot 2025-04-26 at 3 40 47 PM" src="https://github.com/user-attachments/assets/a36db043-fb5a-44e7-90a4-f08f2077fb69" />
 
@@ -26,6 +26,26 @@
 - **Month 2**: **58%** Progress (from Weeks 5 to 8)
 - **Month 3**: **100%** Progress (from Weeks 9 to 12)
 
----
+### 📝 How to Track Your Progress
 
-The progress blocks now reflect a more detailed and gradual increase from **Week 1** to **Week 12**. As you complete each week’s milestone, the filled boxes will visually represent your progress, making it easy to track your learning journey!
+Fork this repository to keep track of your progress.
+
+Track your progress by checking off the boxes next to each topic once you’ve completed it.
+
+The Milestone column shows your current progress as a percentage (0% to 100%) and includes a visual progress bar (e.g., [■■■■■] for 100% progress).
+
+Customize your learning path by adding notes, challenges, or additional topics as you go.
+
+### 💻 How to Use This Repository
+
+Fork this repository to your personal GitHub account.
+
+Use the checkboxes to mark off completed topics.
+
+Add any customized notes or resources that you find helpful in your learning journey.
+
+Engage with the community by contributing insights, solutions, and extra resources. You can open issues or create pull requests to share your progress or improvements!
+
+By following this roadmap and tracking your progress, you will be well-equipped to ace your system design interviews! 🚀
+
+
